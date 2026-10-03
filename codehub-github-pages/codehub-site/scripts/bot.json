@@ -1,0 +1,12 @@
+{
+  "title": "Python Bot",
+  "description": "Exemple de script Python.",
+  "language": "python",
+  "new": false,
+  "tags": [
+    "Python",
+    "Bot"
+  ],
+  "code": "def start_bot():\n    print(\"Bot started\")\n\nstart_bot()",
+  "path": "scripts/python/bot.py"
+}

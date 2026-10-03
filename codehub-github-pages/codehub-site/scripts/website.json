@@ -1,0 +1,12 @@
+{
+  "title": "My Website",
+  "description": "Exemple de page HTML.",
+  "language": "html",
+  "new": true,
+  "tags": [
+    "Web",
+    "HTML"
+  ],
+  "code": "<!DOCTYPE html>\n<html>\n  <body>\n    <h1>Hello World</h1>\n  </body>\n</html>",
+  "path": "scripts/web/website.html"
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Python Bot",
+    "description": "Exemple de script Python.",
+    "language": "python",
+    "new": false,
+    "tags": [
+      "Python",
+      "Bot"
+    ],
+    "code": "def start_bot():\n    print(\"Bot started\")\n\nstart_bot()",
+    "path": "scripts/python/bot.py"
+  },
+  {
+    "title": "My Website",
+    "description": "Exemple de page HTML.",
+    "language": "html",
+    "new": true,
+    "tags": [
+      "Web",
+      "HTML"
+    ],
+    "code": "<!DOCTYPE html>\n<html>\n  <body>\n    <h1>Hello World</h1>\n  </body>\n</html>",
+    "path": "scripts/web/website.html"
+  },
+  {
+    "title": "Fly Script",
+    "description": "Exemple de script Lua / Luau.",
+    "language": "lua",
+    "new": true,
+    "tags": [
+      "Roblox",
+      "Movement"
+    ],
+    "code": "local player = game.Players.LocalPlayer\nprint(\"Fly enabled\")",
+    "path": "scripts/roblox/fly.lua"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "title": "Fly Script",
+  "description": "Exemple de script Lua / Luau.",
+  "language": "lua",
+  "new": true,
+  "tags": [
+    "Roblox",
+    "Movement"
+  ],
+  "code": "local player = game.Players.LocalPlayer\nprint(\"Fly enabled\")",
+  "path": "scripts/roblox/fly.lua"
+}
